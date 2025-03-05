@@ -5,6 +5,8 @@
 - 🌱 2 years of experience in software development.  
 - 🎓 Bachelor's Degree in Systems Analysis and Development.  
 
+---
+
 ## 🛠 Tech Stack  
 
 <div style="display: inline_block"><br>
