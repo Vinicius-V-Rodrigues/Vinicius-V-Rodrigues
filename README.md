@@ -22,15 +22,6 @@ Hi, I'm **Vinicius Valler Rodrigues**, a **Full Stack Software Engineer** passio
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusvaller&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvaller&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</p>  
-
----
-
 ## 📫 Connect with Me  
 
 <div> 
@@ -45,6 +36,3 @@ Hi, I'm **Vinicius Valler Rodrigues**, a **Full Stack Software Engineer** passio
   </a>  
 </div>  
 
----
-
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
